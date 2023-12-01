@@ -1,0 +1,49 @@
+Nombre de la escena//Descripcion//Opcion que invoca a la escena//0//
+Hora libre//Estas en la escuela con tu mejor amigo y tienes hora libre//Llegas a la escuela//2//3//4//5//
+La tarea es primero//Deciden aprovechar el tiempo para adelantar tarea//hacer tarea//19//12//
+De contrabando//Deciden tomar dentro de un salon vacio cuando de repente un profe los atrapa//Ir a tomar a la escuela//7//8//10//
+Unas banqueteras//Deciden tomar en un parque cercano//Ir a tomar a un parque//20//21//22//
+Tistok?//Agarras tu celular y te pones a ver tik tok//Perder el tiempo//6//
+Bad Ending: Malditas redes//No hiciste nada y te acabaste tu bateria. Saliendo de clases te perdiste y nadie volvió a saber de ti//Continuar//
+Fuimonos//Corres a toda velocidad cuando ves que tu compa se cae, lo ayudas?//Pelarse//15//16//
+Gusta?//Le ofreces chela al profe, resulta que le encanta la tecate light y la acepta//Ofrecerle pisto//9
+Good ending: Comprofe//Te hiciste amigo del profe y ahora tomas con el cada viernes. Te pasa todas las materias con 100 y te conviertes en alcoholico pero titulado//continuar//
+Sordos//El profe entra y no encuentra nada, los deja ir solo por esta vez//esconder todo//11//
+Bad ending: Estuvo cerca?//Tu y compa prometen no volver a pistear, se graduan con honores y saliendo de la graduacion los atropella un conductor ebrio. El no lo prometio//Continuar//
+Bilingue//Tu y tu compa hacen la tarea de ingles//Hacer tarea de ingles//14//
+Neutral ending: La tarea de sexualidad// Despues de hacer la tarea tu y tu amigo ya no se pueden ver a los ojos y desarrollan un gusto por taylor swift//Continuar//
+Neutral ending: Que se note el B2//Tu y tu amigo se volvieron maestros del ingles. Se convierten en supervisores de TP y se dedican a pelearse con extranjeros//continuar//
+Buen samaritano//Te regresas a ayudar a tu compa//Ayudar a tu compa//17
+Cada quien por su cuenta//Dejas a tu amigo, el profe lo agarra y lo expulsan//dejar a tu amigo//18
+Bad ending: Eso me pasa por buen pedo//Tu compa penso que eras el profe y te conecto un derechazo. Mueres al instante//continuar//
+Neutral? ending: Por dejabajo//Te graduaste pero tu amigo perdio el camino. Quedo preso 10 años y al salir solo quiere venganza//Continuar
+Tarea de identidad sexual//Tu y tu compa deciden hacer juntos la tarea de sexualidad//Tarea de sexualidad//13
+Baratito//Tu y tu compa estan tomando su tony cuando los cacha la poli//comprar tonayan//24//
+Algo bien//Tu y tu compa se compran un 12 de chelita cuando ven a la policia de lejos hacia su direccion//Comprar chela//25//26//27//
+Finolis//Se compran un whiskey caro cuando la policia los atora, los ven con feria y les tumban hasta los calzones//comprar whiskey//23//
+Bad ending: Sin feria// Entre lo que gastaste y lo que te quitaron te quedas sin quincena, y estamos a primero. Mueres de hambre//continuar//
+Por pobres//la policia te ve con tonayan y como piensan que no tienes feria te pone una madriza, Decides no volver a tomar//Continuar//11//
+Sordos//Esconden la chela rapidamente, el policia les pregunta si estan tomando//esconder todo//29//30//31//
+Huele a gas//tu y tu compa corren a toda velocidad//pelarse//28//
+Todo normal//te mantienes con la chela en la mano. Porque?//No hacer nada//48//34//
+Bad ending: Por coyones//La policia les da 10 balazos de advertencia por la espalda. Vives en mexico:(//Continuar//
+Don comedias//Le respondes "Bueno fuera" al oficial, no le dio risa//hacer un chiste//32//
+Afirmativo pareja//Le dices al oficial que si estabas tomando y que te perdone. El los deja ir por honestos.//Responder que si//33//
+Negativo pareja//Le respondes que no al oficial, el enojado los catea//responder que no//35//36//
+Bad ending: Por chistoso//El policia te mete 20 años a la carcel por andar de chistosito//continuar//
+Good.. ending?//Te vas riendo por la experiencia a la escuela. Cuando llegas te cancelan las clases..//continuar//1//
+Salud//Le haces un ademan al poli con tu chela. El se queda sorprendido//Por autoconfianza//44//46
+Hacer caso//Sigues instruucciones de la poli y te cachan las chelas. El poli te pregunta "Como nos arreglamos?"//Acatar indicaciones//40//41//
+Conozco mis derechos//Inspirado por acabar de terminar suits, te pones a hablar de tus derechos//No acatar//37//
+Bad ending: Por hocicon//El policia no los conocia y te parte en tu madre, dejandote al borde de la muerte//continuar//
+No seas codo//Le ofreces poco al poli, el enojado te quita todo el dinero//Ofrecerle poco//23//
+Neutral.. ending?:Algo bien//El poli feliz los deja ir, regresan a la escuela y se enteran de que tienen otra hora libre//Ofrecerle media quincena//1//
+Corrupto//Decides darle mordida al poli. Cuanto ofreces?//Dar morida//38//39//
+Anticorrupcion//Decides no darle mordida, te llevan a los separos//No dar mordida//42//
+Best ending: Sin exceso//Saliendo decides no volver a pistear en la escuela pero si en fiestas. Te diviertes y te graduas, Eres feliz//continuar//
+Por miedoso//El poli te ve paralizado y llega a catearte//Por miedo//35//
+Bluffear//Le dices al poli que no sabe con quien se mete//Farolear//45//
+Bad ending: Por creido//Al policia no le importa, te planta mota y te mete 20 años a la carcel//Continuar//
+Seguro de ti mismo//Le tomas a tu chela como si nada//Tomarle a la chela//47//
+Good.. ending? Sin miedo al exito//El poli te tiene miedo y te deja ir, te acabas tu chela y regresas a la escuela, cuanto te cancelan clases//Continuar//1//
+Con la mirada hacia el techo y una movilidad nula// Te quedas paralizado viendo al poli//Por miedo//43//
